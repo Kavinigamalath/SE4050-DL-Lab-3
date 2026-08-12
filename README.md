@@ -1,3 +1,6 @@
+## Student Number: IT22190598
+## Student Name: Gamalath K.H
+
 # SE4050 – Deep Learning Lab 4
 
 ## Application of Convolutional Neural Networks – Part 1
